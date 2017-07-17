@@ -1,0 +1,11 @@
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\bin\Debug\Alış veriş Siteleri kısayolları.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\bin\Debug\Alış veriş Siteleri kısayolları.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\Alış veriş Siteleri kısayolları.csproj.GenerateResource.Cache
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\Alış veriş Siteleri kısayolları.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\Alış veriş Siteleri kısayolları.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\bin\Debug\tr-TR\Alış veriş Siteleri kısayolları.resources.dll
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\WindowsFormsApplication1.Form2.tr-TR.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Alış veriş Siteleri kısayolları\Alış veriş Siteleri kısayolları\obj\x86\Debug\tr-TR\Alış veriş Siteleri kısayolları.resources.dll
